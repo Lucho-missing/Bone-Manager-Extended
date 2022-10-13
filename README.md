@@ -5,3 +5,6 @@ This is an extension of the celebre "Bone Manager" Add-on, witch includes much m
 
 More Info Here:
 https://blenderartists.org/t/bone-manager-extended-testing/1407171
+
+Demostration Video:
+https://youtu.be/OWy77oJ6m7Y
